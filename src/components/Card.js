@@ -23,7 +23,7 @@ function CardComponent({ title, description, buttonText }) {
           />
           {description}
         </p>
-        <a href="#" className="btn btn-primary">
+        <a href="/#" className="btn btn-primary">
           <UserOutlined style={{ marginRight: "5px" }} />
           {buttonText}
         </a>
